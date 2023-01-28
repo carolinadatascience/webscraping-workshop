@@ -13,11 +13,11 @@ There are three steps required to successfully scrape a website:
  
 2) **Parsing the data**
 
-    How that you have access to a website's HTML data, you now have to make sense of this data. Ofentimes, a big part of this step is figuring out which compoenents of the HTML you need -- and which ones you don't. This is often the hardest and most tedius part of web scraping, but this is where the magic really happens.
+    How that you have access to a website's HTML data, you now have to make sense of this data. Oftentimes, a big part of this step is figuring out which components of the HTML you need -- and which ones you don't. This is often the hardest and most tedious part of web scraping, but this is where the magic really happens.
     
 3) **Using the data**
 
-    Congratulations! Now that you have you data, you can now do something cool with it. You can analyze this data, gain new insignts and knowledge, even work on your very own data science app with this data as well (with proper attribution, of course!)
+    Congratulations! Now that you have you data, you can now do something cool with it. You can analyze this data, gain new insights and knowledge, even work on your very own data science app with this data as well (with proper attribution, of course!)
     
 In this workshop, you will learn the basics of creating your own web scraping script using the `BeautifulSoup` and `requests` package for the Python programming language. You will learn how to perform all three tasks of web scraping - retreiving the raw source HTML from a webpage, parsing that data to gain valuable data and knowledge, and storing that data to develop new insights or work on your very own data science app. We will also discuss how web scraping has been used in technologies and software commonly used today, as well as the potential ethical implications of the practice.
 
