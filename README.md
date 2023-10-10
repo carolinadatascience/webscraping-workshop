@@ -55,4 +55,4 @@ If you are not familiar with how to use GitHub, using **GitHub Desktop** is an e
 
 ## Slideshow Presentation
 
-[This slideshow](https://docs.google.com/presentation/d/1PiVoXf_dxQrWi9grvDmNAhhacAGgp6K9KIWl0tMz600/edit?usp=sharing) presentation complements the live demonstration of this workshop.
+[This slideshow]([https://docs.google.com/presentation/d/1PiVoXf_dxQrWi9grvDmNAhhacAGgp6K9KIWl0tMz600/edit?usp=sharing](https://docs.google.com/presentation/d/1UpaG2y4XvHOXS3u-pQ974RCZY-YM49jvLhGlH2aiswQ/edit?usp=sharing)https://docs.google.com/presentation/d/1UpaG2y4XvHOXS3u-pQ974RCZY-YM49jvLhGlH2aiswQ/edit?usp=sharing) presentation complements the live demonstration of this workshop.
